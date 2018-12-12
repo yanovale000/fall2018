@@ -3,7 +3,7 @@
   <body bgcolor=blue>
     <table border=1px bgcolor=brown>
       <tr> 
-        <td>Period </td>
+        <td colspan=2>Period </td>
         <td align="center">Class</td>
         <td>Teacher</td>
       </tr>
@@ -18,7 +18,7 @@
         </tr>
         <tr>
         <td align="center" rowspan=2>2</td>
-        <td colspan=2>8:15-9:05</td>
+        <td>8:15-9:05</td>
         <td rowspan=2>Computer Science</td>
         <td>Chan</td>
       </tr>
@@ -27,7 +27,7 @@
         </tr>
         <tr>
         <td align="center" rowspan=2>3</td>
-        <td colspan=2>9:40-10:30</td>
+        <td>9:40-10:30</td>
         <td rowspan=2>Health</td>
         <td>Hampson</td>
       </tr>
@@ -39,7 +39,7 @@
       </tr>
       <tr>
         <td align="center" rowspan=2>4</td>
-        <td colspan=2>11:10-12:00</td>
+        <td>11:10-12:00</td>
         <td rowspan=2>Biology</td>
         <td>Russel</td>
       </tr>
@@ -48,7 +48,7 @@
         </tr>
         <tr>
         <td align="center" rowspan=2>5</td>
-        <td colspan=2>12:05-12:55</td>
+        <td>12:05-12:55</td>
         <td rowspan=2>English</td>
         <td>Moliter</td>
       </tr>
@@ -57,7 +57,7 @@
         </tr>
         <tr>
         <td align="center" rowspan=2>6</td>
-        <td colspan=2>1:00-1:50</td>
+        <td>1:00-1:50</td>
         <td rowspan=2>Algebra</td>
         <td>Whitney</td>
       </tr>
