@@ -3,9 +3,9 @@
   <body bgcolor=blue>
     <table border=1px bgcolor=brown>
       <tr> 
-        <td>Period </td>
-        <td align="center">Class</td>
-        <td>Teacher</td>
+        <th>Period </td>
+        <th align="center">Class</td>
+        <th>Teacher</td>
       </tr>
       <tr>
         <td align="center" rowspan=2>1</td>
