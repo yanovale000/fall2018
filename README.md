@@ -4,7 +4,7 @@
     <table border=1px bgcolor=brown>
       <tr> 
         <td>Period </td>
-        <td>Class</td>
+        <td align="center">Class</td>
         <td>Teacher</td>
       </tr>
       <tr>
