@@ -1,9 +1,9 @@
-<html>
+33<html>
   <title> My Schedule</title>
-  <body>
-    <table>
+  <body bgcolor=blue>
+    <table border=1px bgcolor=brown>
       <tr> 
-        <td>Period</td>
+        <td>Period </td>
         <td>Class</td>
         <td>Teacher</td>
       </tr>
