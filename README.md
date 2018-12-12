@@ -16,7 +16,7 @@
         <td>SE132</td>
         </tr>
         <tr>
-        <td align="center" rowspan=2>2<td>
+        <td align="center" rowspan=2>2</td>
         <td rowspan=2>Computer Science</td>
         <td>Chan</td>
       </tr>
