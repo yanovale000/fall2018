@@ -3,7 +3,7 @@
   <body bgcolor=blue>
     <table border=1px bgcolor=brown>
       <tr> 
-        <th>Period </td>
+        <th colspan=2>Period </td>
         <th align="center">Class</td>
         <th>Teacher</td>
       </tr>
