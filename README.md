@@ -1,4 +1,4 @@
-33<html>
+<html>
   <title> My Schedule</title>
   <body bgcolor=blue>
     <table border=1px bgcolor=brown>
