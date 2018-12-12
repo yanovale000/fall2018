@@ -35,7 +35,7 @@
          <td>NE137</td>
         </tr>
         <tr>
-          <td>First Lunch</td>
+          <td colspan=4>First Lunch</td>
       </tr>
       <tr>
         <td align="center" rowspan=2>4</td>
